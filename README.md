@@ -1,10 +1,15 @@
 # sentiment-analysis-twitter
 Sentiment Analysis on Twitter data.  Project developed as part of an Artificial Intelligence course. Includes data cleaning, text preprocessing, exploratory analysis, and interpretation of sentiment patterns using machine learning techniques.
+
 ## Dataset
 
-The dataset used in this project is not included in the repository.
-To run the code, please download the dataset from:
-[Google Drive link]
+The datasets used in this project are split as follows:
 
-After downloading, place the file in the project root or update
-the file path accordingly.
+- **Training dataset**: not included in this repository due to file size constraints.  
+  It can be downloaded from the following link:  
+ https://drive.google.com/file/d/1Vu9F1gFni9rxge3GgkDTlF5_ycdsujC8/view?usp=drive_link
+
+- **Test dataset**: included in this repository for reference and evaluation purposes.
+
+After downloading the training dataset, place it in the project root
+directory and update the file path in the notebook accordingly.
